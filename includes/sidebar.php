@@ -6,7 +6,7 @@
 	</div>
    
 	<div class="batches">
-		<a id="batches" href="/batches">
+		<a id="batches" href="batches.php">
 			<i class="fa-solid fa-users"></i>&nbsp;&nbsp;Batches
 		</a>
 	</div>
