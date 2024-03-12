@@ -1,6 +1,6 @@
 <div class="sidebar" id="sidebar">
-	<div class="dashboard">
-		<a id="dashboard" href="/">
+	<div class="index">
+		<a id="index" href="index.php">
 			<i class="fa-solid fa-table-list"></i>&nbsp;&nbsp;Dashboard
 		</a>
 	</div>
@@ -15,8 +15,13 @@
 			<i class="fa-solid fa-users"></i>&nbsp;&nbsp;Students
 		</a>
 	</div>
+	<div class="question">
+		<a id="question" href="questions.php">
+		  <i class="fa-solid fa-right-from-bracket"></i>&nbsp;&nbsp;Questions
+		</a>
+	  </div>
 	<div class="assignment">
-		<a id="quiz" href="/assignment">
+		<a id="quiz" href="assignments.php">
 			<i class="fa-regular fa-lg fa-file-zipper"></i>&nbsp;&nbsp;Assignments
 		</a>
 	</div>
