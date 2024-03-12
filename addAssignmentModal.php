@@ -23,7 +23,7 @@
                     <div class="mb-3">
                     <label for="deadline" class="form-label">Select Batch</label>
 
-                    <select class="form-select" style="width: 100%;" id="batchselect" name="batch[]"  >
+                    <select class="form-select" style="width: 100%;" id="batchselect" name="batch"  >
                             
                            
                         </select>

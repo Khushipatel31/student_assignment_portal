@@ -11,7 +11,7 @@
 			</div>
 			<div class="col text-end">
 				<button style="height: min-content" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#assignmentModal">
-					<i class="fa-regular fa-square-plus"></i>&nbsp;&nbsp;CREATE ASSIGNMENTS
+					<i class="fa-regular fa-square-plus"></i>&nbsp;&nbsp;CREATE ASSIGNMENT
 				</button>
 			</div>
 		</div>

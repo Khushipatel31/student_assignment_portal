@@ -2,7 +2,7 @@
 include('../config/config.php'); 
 
 try {
-    $stmt = $conn->prepare("SELECT id, username FROM student");
+    $stmt = $conn->prepare("SELECT * FROM student");
     $stmt->execute();
     $students = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
