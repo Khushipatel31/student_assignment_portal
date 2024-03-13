@@ -1,5 +1,5 @@
 <?php include 'includes/header.php'; ?>
-<?php include 'assets/css/datatable.css'; ?>
+<!-- <?php include 'assets/css/datatable.css'; ?> -->
 <!-- <?php include 'assets/css/style_temp.css'; ?> -->
 <div class="grid-container">
 	<!-- Header -->
